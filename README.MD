@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Escudillo</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
+<img align="right" alt="GIF" src="./coding.gif" width="500" height="320" />
+
 - 🔭 I’m currently working on [Tattoink Front-End](https://github.com/GabrielEscudillo/Front-end-Tattoo-Studio)
 
 - 🌱 I’m currently learning **React.js**
