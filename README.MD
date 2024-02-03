@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Escudillo</h1>
-<h3 align="center">A passionate full stack developer from Spain</h3>
+<h3 align="center">Passionate Junior Full Stack Developer from Spain</h3>
 
 <img align="right" alt="GIF" src="./coding.gif" width="500" height="320" />
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GabrielEscudillo?tab=repositories](https://github.com/GabrielEscudillo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/GabrielEscudillo](https://github.com/GabrielEscudillo?tab=repositories)
 
 - 📫 How to reach me **gabrielescudillo@gmail.com**
 
