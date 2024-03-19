@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="./coding.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on [Tattoink Front-End](https://github.com/GabrielEscudillo/Front-end-Tattoo-Studio)
+- 🔭 I’m currently working on [TravelBlaze - Frontend](https://github.com/GabrielEscudillo/TravelBlaze-FrontEnd)
 
 - 🌱 I’m currently learning **React.js**
 
